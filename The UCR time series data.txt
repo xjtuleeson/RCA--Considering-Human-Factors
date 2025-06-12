@@ -1,0 +1,2 @@
+The UCR time series data miningarchive [Online]. 
+Available: http://www.cs.ucr.edu/eamonn/TSDMA/index.html
